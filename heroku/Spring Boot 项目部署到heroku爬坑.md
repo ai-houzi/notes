@@ -17,7 +17,9 @@ To avoid dyno sleeping, you can upgrade to a hobby or professional dyno type as 
 
 ​	heroku的注册界面：
 
-![image-20180618142314263](/var/folders/m6/x3ylx7893dl8y44443rg365c0000gn/T/abnerworks.Typora/image-20180618142314263.png)
+![image-20180618142314263](https://raw.githubusercontent.com/ai-houzi/notes/master/picture/image-20180618142314263.png)
+
+
 
 PS:
 
@@ -26,17 +28,17 @@ PS:
 
 ### 2.安装CLI
 
-​	简单注册完账号以后在官网登陆个人账号，点击Getting Started，选择一样自己需要的语言，然后选择合适自己系统的版本，下载安装CLI，本人为MAC系统。![image-20180618143840969](/var/folders/m6/x3ylx7893dl8y44443rg365c0000gn/T/abnerworks.Typora/image-20180618143840969.png)
+​	简单注册完账号以后在官网登陆个人账号，点击Getting Started，选择一样自己需要的语言，然后选择合适自己系统的版本，下载安装CLI，本人为MAC系统。![image-20180618143840969](https://raw.githubusercontent.com/ai-houzi/notes/master/picture/image-20180618143840969.png)
 
-![image-20180618143944050](/var/folders/m6/x3ylx7893dl8y44443rg365c0000gn/T/abnerworks.Typora/image-20180618143944050.png)
+![image-20180618143944050](https://raw.githubusercontent.com/ai-houzi/notes/master/picture/image-20180618143944050.png)
 
 ### 3.heroku基本操作
 
 ​	官网给了比较详细的操作说明，这里就不一一赘述，大家可以跟着官方教程一步一步操作，这里只说一下个人实践过程中遇到的问题，附送一些官网教程的截图。
 
-![image-20180618144118752](/var/folders/m6/x3ylx7893dl8y44443rg365c0000gn/T/abnerworks.Typora/image-20180618144118752.png)
+![image-20180618144118752](https://raw.githubusercontent.com/ai-houzi/notes/master/picture/image-20180618144118752.png)
 
-![image-20180618144432742](/var/folders/m6/x3ylx7893dl8y44443rg365c0000gn/T/abnerworks.Typora/image-20180618144432742.png)
+![image-20180618144432742](https://raw.githubusercontent.com/ai-houzi/notes/master/picture/image-20180618144432742.png)
 
 ​	详细教程请参见heroku官网
 
